@@ -1,4 +1,4 @@
-int pingPin = 4;//пин для выхода trig
+int pingPin = 4;//пин для выхода trig *First parcel
 
 int inPin = 2;//пин для выхода echo
 
