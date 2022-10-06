@@ -9,7 +9,7 @@ void setup() {
   digitalWrite(pingPin, LOW);
 }
  
-void loop() {
+void loop() {//27-08-202214:24
   long duration, cm,tmp1;//объявляем переменные
   //посылаем датчику сигнал начала замера (высокий уровень на 10 мкс)
   digitalWrite(pingPin, HIGH);
